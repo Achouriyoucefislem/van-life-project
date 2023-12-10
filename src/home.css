@@ -74,6 +74,10 @@
   border: none;
   outline: none;
   cursor: pointer;
+  font-Weight: 700;
+  font-Size: 15.95px;
+  Line-height: 31.66px;
+  color: #fff;
 }
 
 .container footer {
